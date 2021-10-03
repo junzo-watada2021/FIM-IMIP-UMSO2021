@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
-       <loc>WEBSITE</loc>
+       <loc>https://junzo-watada2021.github.io/FIM-IMIP-UMSO2021/</loc>
    </url>
    <url>
-       <loc>WEBSITE/registration</loc>
+       <loc>https://junzo-watada2021.github.io/FIM-IMIP-UMSO2021/registration</loc>
    </url>
    <url>
-       <loc>WEBSITE/program</loc>
+       <loc>https://junzo-watada2021.github.io/FIM-IMIP-UMSO2021/program</loc>
    </url>
    <url>
-       <loc>WEBSITE/directions</loc>
+       <loc>https://junzo-watada2021.github.io/FIM-IMIP-UMSO2021/directions</loc>
+   </url>
+   <url>
+       <loc>https://junzo-watada2021.github.io/FIM-IMIP-UMSO2021/flyer</loc>
    </url>
 </urlset> 
 
