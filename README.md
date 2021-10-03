@@ -16,9 +16,3 @@ To include math in a page of this website, include the line
 
 in the `<head>` of that page. Then math can by typeset by using LaTeX's math notation enclosed in `\(...\)` delimiters.
 
-## Sitemap (optional)
-
-The `sitemap.xml` helps search engines understand the structure of the site.
-In this file, each instance of "WEBSITE" should be replaced
-with the actual address where this website is being hosted.
-See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
